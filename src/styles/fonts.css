@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'LilGrotesk';
+  src: url('LilGrotesk-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LilGrotesk';
+  src: url('LilGrotesk-Bold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+/* Fonarto Regular */
+@font-face {
+  font-family: 'Fonarto';
+  src: url('Fonarto.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Fonarto XT Regular */
+@font-face {
+  font-family: 'Fonarto XT';
+  src: url('Fonarto XT.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
