@@ -2,22 +2,22 @@ import React from "react";
 
 const education = [
   {
-    degree: "M.S. in Computer Science",
-    university: "University of Awesomeness",
-    year: "Oct 2023 - Aug 2024",
-    detail: "GPA: 4.0",
+    degree: "Software Engineering",
+    university: "Moringa School",
+    year: "November 2023 - June 2024",
+    // detail: "GPA: 4.0",
   },
   {
-    degree: "B.E. in Computer Engineering",
-    university: "The Best University",
-    year: "Sept 2022 - May 2018",
-    detail: "GPA: 3.9",
+    degree: "B.Sc. in Software Engineering",
+    university: "University of Eastern Africa, Baraton",
+    year: "Sept 2016 - August 2021",
+    // detail: "GPA: 3.9",
   },
   {
-    degree: "High school",
-    university: "Fun High School",
-    year: " Sept 2014 - May 2018",
-    detail: "GPA: 3.5",
+    degree: "CISCO Networking Academy",
+    university: "Kenyatta University",
+    year: " January 2016 - August 2016",
+    // detail: "GPA: 3.5",
   },
 ];
 

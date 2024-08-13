@@ -4,7 +4,7 @@ import "./Contact.css";
 // Create a context for images
 const icon = require.context("./images/icon", false, /\.(png|jpe?g|svg)$/);
 
-const email = "youremail@example.com"; // Change this to your email
+const email = "kipkiruibn@gmail.com"; // Change this to your email
 
 const Contact = () => {
   return (
@@ -31,7 +31,7 @@ const Contact = () => {
             <form
               className="contact-form"
               method="POST"
-              action="your-formspree-endpoint"
+              action="https://formspree.io/f/xrbzkdoz"
             >
               <div className="form-group">
                 <label htmlFor="name">Name:</label>
