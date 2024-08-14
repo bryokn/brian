@@ -8,18 +8,24 @@ const icon = require.context('./images/icon', false, /\.(png|jpe?g|svg)$/);
 
 const projects = [
   {
-    title: 'Personal Website Template',
-    technologies: ['React.js', 'HTML', 'CSS'],
-    summary: 'THIS PROJECT. A personal website template built using React.js, HTML, and CSS.',
-    screenshot: 'personal_website_template_ss.png',
-    github: 'https://github.com/KoustubhSahu/Personal-Website-Template',
-    liveURL: 'https://koustubhsahu.github.io/Personal-Website-Template/',
+    title: 'Flapocalypse Game',
+    technologies: ['React Native', 'TypeScript', 'Expo'],
+    summary: 'This is a React Native game built using React Native, TypeScript. It is a clone of Flappy Bird.',
+    // screenshot: './images/flapocalypse.png',
+    github: 'https://github.com/bryokn/Flapocalypse',
+    // liveURL: 'https://koustubhsahu.github.io/Personal-Website-Template/',
   },
   {
-    title: "QR Code Generator",
+    title: "Paw-Prints",
     technologies: ['Python', 'Docker'],
-    summary: 'Developed a QR code generator using Python and Docker',
+    summary: 'The Pet Adoption Application is a web-based application that allows users to browse and adopt pets. It provides a user-friendly interface for searching and viewing available pets, as well as functionality for creating new adoptions.',
     github: 'https://github.com/KoustubhSahu/qrprog',
+  },
+  {
+    title: "Personal Journal App",
+    technologies: ['React Native','TypeScript', 'Python', 'PostgreSQL', 'Expo'],
+    summary: 'This is a mobile application built with React Native and Expo that allows users to create, manage, and categorize personal journal entries. ',
+    github: 'https://github.com/bryokn/journal-app',
   }
   
 ];
