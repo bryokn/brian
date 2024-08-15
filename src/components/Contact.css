@@ -25,7 +25,8 @@
     margin: 0;
     display: flex;
     justify-content: center;
-    background-color: #6200ea;
+    /* background-color: #6200ea; */
+    background: linear-gradient(60deg, #6200ea 30%, #00b303 80%);
     border-radius: 1.5rem;
     border-top-right-radius: 8rem !important;
     border-bottom-right-radius: 8rem !important;
@@ -148,15 +149,17 @@
 }
 
 .submit-btn {
-    background-color: #6200ea;
+    /* background-color: #00b303 ; */
     border: 3px solid white;
-    color: white;
+    color: #00b303 ;
     font-size: 1.3rem;
     padding: 0.7rem;
-    border-radius: 0.5rem;
+    border-radius: 1.4rem;
     cursor: pointer;
-    width: 80%;
+    width: 50%;
     margin-top: 1rem;
+    font-family: 'Fonarto', sans-serif;
+    font-weight: bold;
 }
 
 .submit-btn:hover {

@@ -3,19 +3,19 @@ import React from 'react';
 const experience = [
   {
     position: 'Software Developer',
-    company: 'Awesome Company',
+    company: 'Midas Consultancy',
     duration: 'Jan 2023 - Present',
     detail: 'Created Full-Stack applications using React.js, Node.js, and Express.js.',
   },
   {
-    position: 'QA Engineer',
-    company: 'Second Awesome Company',
+    position: 'Fullstack Engineer',
+    company: 'Wiltel Company',
     duration: 'Oct 2021 - Dec 2022',
     detail: 'Wrote test cases and performed manual testing for a web application.',
   },
   {
     position: 'Software Developer Intern',
-    company: 'Thrid Awesome Company',
+    company: 'KETEPA',
     duration: 'Feb 2019 - Jul 2021',
     detail: 'Created APIs using Node.js and Express.js for a web application.',
   }

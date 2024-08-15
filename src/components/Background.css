@@ -2,7 +2,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #6200ea;
+    /* background-color: #6200ea; */
+    background: linear-gradient(60deg, #6200ea 30%, #00b303 80%);
     padding-top: 4rem;
     position: relative;
 }
@@ -24,7 +25,7 @@
     justify-content: center;
     width: fit-content;
     padding: 0.5rem 1rem;
-    background-color: #6200ea;
+    /* background-color: #6200ea; */
     gap: 0.5rem;
 
     button {
@@ -72,7 +73,7 @@
     margin: 2rem 0;
     width: 100%;
     height: 35rem;
-    background-color: #6200ea;
+    /* background-color: #6200ea; */
 }
 
 .timeline-container {

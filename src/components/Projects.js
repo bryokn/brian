@@ -17,7 +17,7 @@ const projects = [
   },
   {
     title: "Paw-Prints",
-    technologies: ['Python', 'Docker'],
+    technologies: ['Python', 'JavaScript', 'Flask'],
     summary: 'The Pet Adoption Application is a web-based application that allows users to browse and adopt pets. It provides a user-friendly interface for searching and viewing available pets, as well as functionality for creating new adoptions.',
     github: 'https://github.com/KoustubhSahu/qrprog',
   },

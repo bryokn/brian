@@ -51,19 +51,18 @@ const Contact = () => {
                 ></textarea>
               </div>
               <button type="submit" className="submit-btn">
-                Send
+                S E N D
               </button>
             </form>
           </div>
         </div>
         <div className="map-container">
-          {/* Replace this iframe with your Google Maps embed code. */}
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1547017.3208094544!2d-74.88767352569693!3d40.77262035228985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c286d6e07696fb%3A0xca34053f4678c888!2sNew%20York%20Metropolitan%20Area!5e0!3m2!1sen!2sus!4v1722443759323!5m2!1sen!2sus"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d255281.19036281522!2d36.70730736763741!3d-1.3032080805419576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f1172d84d49a7%3A0xf7cf0254b297924c!2sNairobi%2C%20Kenya!5e0!3m2!1sen!2sus!4v1692110892893!5m2!1sen!2sus"
             width="600"
             height="450"
             style={{ border: 0 }}
-            title="Google Maps"
+            title="Google Maps - Nairobi, Kenya"
             allowfullscreen=""
             loading="lazy"
             referrerpolicy="no-referrer-when-downgrade"

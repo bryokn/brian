@@ -1,6 +1,6 @@
 .navbar {
   /* background-color: #6200ea; */
-  background: linear-gradient(60deg, #6739a7 30%, #00b303 80%);
+  background: linear-gradient(60deg, #6200ea 30%, #00b303 80%);
   padding: 0.5rem;
   display: flex;
   align-items: center;
