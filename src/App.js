@@ -29,7 +29,7 @@ const Home = () => (
         <div className="summary-content">
           
           <h1>
-            Hi, I'm Kipkirui Brian...!
+            Hi, I'm Kipkirui Brian.
           </h1>
           <p>
             I am a motivated and skilled software developer with experience in building web applications, CLI tools, and working with various programming languages and frameworks. I am passionate about creating user-friendly and efficient solutions through coding. I am a self-starter with the ability to take initiative when it comes to planning, scheduling, and executing work within given deadlines.

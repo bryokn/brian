@@ -12,8 +12,8 @@ import './Background.css';
         <span class="background-marker" />
         <div className="background-container">
           <div className="background-nav">
-            <button className={activeView === "education" ? "selected" : ""} onClick={() => setActiveView("education")}>Education</button>
-            <button className={activeView === "experience" ? "selected" : ""} onClick={() => setActiveView("experience")}>Experience</button>
+            <button className={activeView === "education" ? "selected" : ""} onClick={() => setActiveView("education")}>EDUCATION</button>
+            <button className={activeView === "experience" ? "selected" : ""} onClick={() => setActiveView("experience")}>EXPERIENCE</button>
           </div>
           <div className="background-content">
             <div className="background-view"> 

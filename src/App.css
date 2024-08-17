@@ -62,9 +62,11 @@ h2, h3, h4, h5, h6 {
   max-width: 40rem;
 
   p {
-    max-width: 27rem;
+    max-width: 57rem;
     margin: 2rem auto;
     text-align: justify;
+    font-family: LilGrotesk;
+    /* font-weight: normal; */
   }
   
 }

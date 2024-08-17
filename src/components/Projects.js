@@ -72,7 +72,7 @@ const Projects = () => {
               <span class="project-links">
                 <Router>
                   {project.liveURL ? <RouterLink to={project.liveURL} target="_blank"><img src={icon(`./live-link.svg`)} alt="live-link"/></RouterLink> : null}
-                  {project.github ? <RouterLink to={project.github} target="_blank"><img src={icon(`./code.svg`)} alt="code"/></RouterLink> : null}
+                  {project.github ? <RouterLink to={project.github} target="_blank"><img src={icon(`./github.svg`)} alt="github"/></RouterLink> : null}
                   {/* <img src={icon(`./live-link.svg`)} alt="live-link"/> */}
                   {/* <img src={icon(`./code.svg`)} alt="code"/> */}
                   {/* <RouterLink to={project.live}><img src={icon(`./live-link.svg`)} alt="live-link"/></RouterLink>
