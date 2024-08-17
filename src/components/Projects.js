@@ -16,16 +16,34 @@ const projects = [
     // liveURL: 'https://koustubhsahu.github.io/Personal-Website-Template/',
   },
   {
-    title: "Paw-Prints",
-    technologies: ['Python', 'JavaScript', 'Flask'],
-    summary: 'The Pet Adoption Application is a web-based application that allows users to browse and adopt pets. It provides a user-friendly interface for searching and viewing available pets, as well as functionality for creating new adoptions.',
-    github: 'https://github.com/KoustubhSahu/qrprog',
-  },
-  {
     title: "Personal Journal App",
     technologies: ['React Native','TypeScript', 'Python', 'PostgreSQL', 'Expo'],
     summary: 'This is a mobile application built with React Native and Expo that allows users to create, manage, and categorize personal journal entries. ',
     github: 'https://github.com/bryokn/journal-app',
+  },
+  {
+    title: "ClassiConnect",
+    technologies: ['JavaScript', 'Next.js', 'CSS'],
+    summary: 'This is a web application built using Next.js and JavaScript. It allows users to browse and purchase products from a variety of categories. ',
+    github: 'https://github.com/bryokn/ClassiConnect',
+  },
+  {
+    title: "E-Commerce App (Liquor Cave)",
+    technologies: ['React', 'Chakra UI', 'CSS', 'Formik', 'HTML'],
+    summary: 'This is a Liquor E-Commerce web application built using React, Formik, Chakra UI, HTML, and CSS. The app allows users to browse and purchase a variety of liquors online.',
+    github: 'https://github.com/bryokn/ecomerce-app',
+  },
+  {
+    title: "Paw-Prints",
+    technologies: ['Python', 'JavaScript', 'Flask', 'SQLite'],
+    summary: 'The Pet Adoption Application is a web-based application that allows users to browse and adopt pets. It provides a user-friendly interface for searching and viewing available pets, as well as functionality for creating new adoptions.',
+    github: 'https://github.com/bryokn/Paw-Prints',
+  },
+  {
+    title: "Sports League",
+    technologies: ['Python', 'SQLAlchemy'],
+    summary: 'This is a CLI application built with Python and SQLAlchemy to manage a grassroots Hockey league.',
+    github: 'https://github.com/bryokn/sports-league',
   }
   
 ];

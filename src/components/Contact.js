@@ -9,7 +9,7 @@ const email = "kipkiruibn@gmail.com"; // Change this to your email
 const Contact = () => {
   return (
     <div className="contact section" id="contact">
-      <h2>Contact Me</h2>
+      <h2>Talk to me...</h2>
       <div className="contact-container">
         <div className="contact-form-container">
           <div className="contact-form-content">
