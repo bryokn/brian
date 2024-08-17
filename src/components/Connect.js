@@ -84,7 +84,7 @@ function Connect(props) {
                             </g>
                         </g>
                     </svg>
-                    <span className="text">Resume</span>
+                    <span className="text">View Resume</span>
                 </RouterLink>
             </Router>
         </div>

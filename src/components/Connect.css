@@ -68,13 +68,13 @@ a {
 }
 
 #resume:hover {
-  max-width: 8rem;
+  max-width: 18rem;
   /* Adjust this value to fit the text */
-  border-radius: 7px;
+  border-radius: 10px;
   width: auto;
 
   svg {
-    margin: 0 0.2rem;
+    margin: 0 0.4rem;
   }
 }
 
