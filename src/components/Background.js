@@ -23,7 +23,6 @@ import './Background.css';
               <Animation fileName="contact" />
             </div>
           </div>
-          
         </div>
       </div>
     );
