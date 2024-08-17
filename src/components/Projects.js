@@ -94,7 +94,17 @@ const Projects = () => {
           </div>
         ))}
       </div>
+      <a 
+        href="https://github.com/bryokn" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        className="github-btn"
+      >
+        <img src={icon('./github.svg')} alt="GitHub" className="github-icon" />
+        <span>Click here to check out more projects on my G I T H U B page. </span>
+      </a>
     </div>
+    
   );
 };
 
