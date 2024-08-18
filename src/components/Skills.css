@@ -19,6 +19,7 @@
   display: grid;  
   box-shadow: 0.5rem 0.5rem 2rem 0.5rem #eee;
   border-radius: 3.5rem;
+  gap: 1rem;
 }
 
 .skills-section {
@@ -28,6 +29,7 @@
   flex-direction: column;
   padding: 3rem 1rem 2rem;
   font-family: LilGrotesk;
+  border-radius: 2rem;
   span {
     font-family: Fonarto;
     font-size: 1.8rem;
