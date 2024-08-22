@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/brian/static/css/main.eded6811.css",
-    "main.js": "/brian/static/js/main.8ae19586.js",
+    "main.css": "/brian/static/css/main.ea6cb357.css",
+    "main.js": "/brian/static/js/main.91faa040.js",
     "static/js/638.a9b48a89.chunk.js": "/brian/static/js/638.a9b48a89.chunk.js",
     "static/js/58.1ce3718f.chunk.js": "/brian/static/js/58.1ce3718f.chunk.js",
     "static/js/763.0ac302a3.chunk.js": "/brian/static/js/763.0ac302a3.chunk.js",
@@ -16,9 +16,11 @@
     "static/media/LilGrotesk-Regular.otf": "/brian/static/media/LilGrotesk-Regular.997b245d543c6da0d4da.otf",
     "static/media/flask.svg": "/brian/static/media/flask.f74879d56c9294439efc.svg",
     "static/media/avatar.png": "/brian/static/media/avatar.37a4f5d651303a6fb5f0.png",
+    "static/media/cassandra.svg": "/brian/static/media/cassandra.8d912d747175ab74565f.svg",
     "static/media/postgre-sql.svg": "/brian/static/media/postgre-sql.9aed68683d15cfc3c3fd.svg",
     "static/media/postman.svg": "/brian/static/media/postman.c74cd48d00339ba03ff2.svg",
     "static/media/mysql.svg": "/brian/static/media/mysql.16c78b724e24683c37fd.svg",
+    "static/media/finger.svg": "/brian/static/media/finger.da4449b6503e461d9a73.svg",
     "static/media/node.svg": "/brian/static/media/node.2a269aefaa6f873120e0.svg",
     "static/media/github.svg": "/brian/static/media/github.47df2bbc29908e702ad8.svg",
     "static/media/reactnative.svg": "/brian/static/media/reactnative.b092ad79d6b9f2bf1999.svg",
@@ -26,6 +28,7 @@
     "static/media/python.svg": "/brian/static/media/python.811eba5dbb7029c25cd4.svg",
     "static/media/mongodb.svg": "/brian/static/media/mongodb.ad7076a60816aa615577.svg",
     "static/media/ms-access.svg": "/brian/static/media/ms-access.818c67a177e4b24b4b8d.svg",
+    "static/media/ussd.svg": "/brian/static/media/ussd.8148eda0f07ced81f81c.svg",
     "static/media/django.svg": "/brian/static/media/django.b062878ade3e5d6fdd56.svg",
     "static/media/expo.svg": "/brian/static/media/expo.0537295a1390ab280abc.svg",
     "static/media/ejs.svg": "/brian/static/media/ejs.e931451e67d4b8eb5911.svg",
@@ -48,11 +51,11 @@
     "static/media/css.svg": "/brian/static/media/css.cce1e71a67427e01caed.svg",
     "static/media/html.svg": "/brian/static/media/html.0c8899975fbb5345002d.svg",
     "static/media/javascript-extra.svg": "/brian/static/media/javascript-extra.b879f838faf1cb951d1c.svg",
-    "main.eded6811.css.map": "/brian/static/css/main.eded6811.css.map",
-    "main.8ae19586.js.map": "/brian/static/js/main.8ae19586.js.map"
+    "main.ea6cb357.css.map": "/brian/static/css/main.ea6cb357.css.map",
+    "main.91faa040.js.map": "/brian/static/js/main.91faa040.js.map"
   },
   "entrypoints": [
-    "static/css/main.eded6811.css",
-    "static/js/main.8ae19586.js"
+    "static/css/main.ea6cb357.css",
+    "static/js/main.91faa040.js"
   ]
 }
