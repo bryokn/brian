@@ -36,7 +36,7 @@ const Home = () => (
           </p>
           
           <Connect linkedin="http://www.linkedin.com/kipkiruibrian" github="https://github.com/bryokn" contact="mailto:kipkiruibn@gmail.com"
-          resume="https://drive.google.com/file/d/12DqaCEvSkfvLjpQd776-aFvBMAs20o7F/view?usp=sharing"/>
+          resume="https://drive.google.com/file/d/1uZFPeQ-3SzY2hOCPYKRWmxrKXaA4xN54/view?usp=sharing"/>
           
         </div>
       </div>

@@ -10,7 +10,7 @@ const education = [
   {
     degree: "B.Sc. in Software Engineering",
     university: "University of Eastern Africa, Baraton",
-    year: "Sept 2016 - August 2021",
+    year: "September 2016 - August 2021",
     // detail: "GPA: 3.9",
   },
   {

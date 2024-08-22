@@ -13,7 +13,7 @@ const projects = [
     summary: 'This is a React Native game built using React Native, TypeScript. It is a clone of Flappy Bird.',
     // screenshot: './images/flapocalypse.png',
     github: 'https://github.com/bryokn/Flapocalypse',
-    // liveURL: 'https://koustubhsahu.github.io/Personal-Website-Template/',
+    // liveURL: 'https://',
   },
   {
     title: "Personal Journal App",

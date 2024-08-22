@@ -11,7 +11,7 @@ const skillsSection = [
   {name: "BACKEND", class: "backend", animation :"backend.json", 
     skills: [{name: "Node.js", icon:"node.svg"}, {name: "Express.js", icon:"express.svg"}, {name: "Python", icon: "python.svg"}, {name: "Flask", icon: "flask.svg"}, {name: "Django", icon: "django.svg"}, {name: "PHP", icon: "php.svg"}] },
   {name: "DATABASE", class: "database", animation: "database.json", 
-    skills: [{name: "PostgreSQL", icon: "postgre-sql.svg"}, {name: "MySQL", icon: "mysql.svg"}, {name: "MongoDB", icon: "mongodb.svg"}, {name: "MS Access", icon: "ms-access.svg"}] },
+    skills: [{name: "PostgreSQL", icon: "postgre-sql.svg"}, {name: "MySQL", icon: "mysql.svg"}, {name: "MongoDB", icon: "mongodb.svg"}, {name: "MS Access", icon: "ms-access.svg"}, {name: "Cassandra", icon:"cassandra.svg"}] },
   {name: "OTHER TECH...", class: "other-tech", animation: "other-tech.json", 
     skills: [{name: "Git", icon: "git.svg"}, {name: "GitHub", icon: "github.svg"}, {name: "Expo", icon: "expo.svg"}, {name: "Postman", icon: "postman.svg"}, {name: "SpringBoot", icon: "spring.svg"}, {name: "USSD", icon: "ussd.svg"}] }
   ];
