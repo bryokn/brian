@@ -13,7 +13,7 @@ const skillsSection = [
   {name: "DATABASE", class: "database", animation: "database.json", 
     skills: [{name: "PostgreSQL", icon: "postgre-sql.svg"}, {name: "MySQL", icon: "mysql.svg"}, {name: "MongoDB", icon: "mongodb.svg"}, {name: "MS Access", icon: "ms-access.svg"}] },
   {name: "OTHER TECH...", class: "other-tech", animation: "other-tech.json", 
-    skills: [{name: "Git", icon: "git.svg"}, {name: "GitHub", icon: "github.svg"}, {name: "Expo", icon: "expo.svg"}, {name: "Postman", icon: "postman.svg"}, {name: "SpringBoot", icon: "spring.svg"}] }
+    skills: [{name: "Git", icon: "git.svg"}, {name: "GitHub", icon: "github.svg"}, {name: "Expo", icon: "expo.svg"}, {name: "Postman", icon: "postman.svg"}, {name: "SpringBoot", icon: "spring.svg"}, {name: "USSD", icon: "ussd.svg"}] }
   ];
 
   
