@@ -6,18 +6,18 @@ import './Background.css';
 
   
   const Background = () => {
-    const [activeView, setActiveView] = useState("education");
+    const [activeView, setActiveView] = useState("experience");
     return (
       <div className="background section" id="background">
         <span class="background-marker" />
         <div className="background-container">
           <div className="background-nav">
-            <button className={activeView === "education" ? "selected" : ""} onClick={() => setActiveView("education")}>EDUCATION</button>
             <button className={activeView === "experience" ? "selected" : ""} onClick={() => setActiveView("experience")}>EXPERIENCE</button>
+            <button className={activeView === "education" ? "selected" : ""} onClick={() => setActiveView("education")}>EDUCATION</button>
           </div>
           <div className="background-content">
             <div className="background-view"> 
-              {activeView === "education" ? <Education /> : <Experience />}
+              {activeView === "experience" ? <Experience /> : <Education />}
             </div>
             <div className="background-animation">
               <Animation fileName="contact" />
